@@ -3,7 +3,7 @@ import React from 'react'
 const TimeOuts = () => {
   return (
     <div>
-        <h2>TimeOut</h2>
+        <h2>TimeOut London</h2>
     </div>
   );
 }
