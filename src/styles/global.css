@@ -1,0 +1,40 @@
+ body{
+    margin: 0;
+    padding: 0;
+    /* background-color: #ced0e2; */
+    height: 100vh; 
+} 
+
+
+.App{
+    text-align: center;
+   
+}
+/**** navbar ***/
+nav{
+  padding: 30px;
+  margin-bottom: -100px;
+  color: darkblue;
+  font-family: cursive;
+  font-size: 1.8rem;
+  cursor: pointer;
+  
+}
+li {
+  margin: 12px;
+  list-style: none;
+  display: inline;
+  justify-content: space-between;
+  
+  
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.logo{
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+}
